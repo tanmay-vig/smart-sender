@@ -43,7 +43,7 @@ SmartSender is a full-stack web application that enables users to send personali
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MRPERFECT0603/SmartSender.git
+git clone https://github.com/tanmay-vig/SmartSender.git
 cd SmartSender
 ```
 
@@ -163,7 +163,7 @@ The application automatically personalizes emails with:
 
 Example:
 ```
-Dear Vivek,
+Dear Tanmay,
 
 Your email content here...
 
@@ -199,21 +199,21 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-- **MRPERFECT0603** - *Initial work* - [GitHub](https://github.com/MRPERFECT0603)
+- **tanmay-vig** - *Initial work* - [GitHub](https://github.com/tanmay-vig)
 
 ## Links
 
-- [Repository](https://github.com/MRPERFECT0603/SmartSender)
-- [Issues](https://github.com/MRPERFECT0603/SmartSender/issues)
+- [Repository](https://github.com/tanmay-vig/SmartSender)
+- [Issues](https://github.com/tanmay-vig/SmartSender/issues)
 
 ## Support
 
 If you encounter any issues or have questions, please:
 1. Check the troubleshooting section above
-2. Search existing [issues](https://github.com/MRPERFECT0603/SmartSender/issues)
+2. Search existing [issues](https://github.com/tanmay-vig/SmartSender/issues)
 3. Create a new issue with detailed information
 
 ---
 
-Made with 💙 by MRPERFECT0603
+Made with 💙 by tanmay-vig
 
