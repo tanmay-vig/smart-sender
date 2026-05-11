@@ -215,5 +215,5 @@ If you encounter any issues or have questions, please:
 
 ---
 
-Made with 💙 by tanmay-vig
+Made with 💙 by tanmay-vig, MRPERFECT0603
 
