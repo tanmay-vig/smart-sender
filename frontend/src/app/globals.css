@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-custom-lightblue: oklch(0.8912 0.0483 262);
+  --color-custom-blue: oklch(0.2927 0.13 261.42);
+}
+@keyframes fakeProgress {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+.animate-fakeProgress {
+  animation: fakeProgress 5s linear forwards;
+}

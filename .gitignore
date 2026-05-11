@@ -1,0 +1,12 @@
+# Local Netlify folder
+.netlify
+node_modules
+.env
+dist
+uploads
+*.iml
+.idea
+
+# macOS system files
+.DS_Store
+**/.DS_Store

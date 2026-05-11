@@ -1,0 +1,53 @@
+{
+  "name": "smartsender",
+  "version": "1.0.0",
+  "description": "This is the Dev Branch.",
+  "main": "server.js",
+  "scripts": {
+    "build": "rm -rf dist && npx tsc",
+    "start": "node dist/server.js",
+    "dev": "npx tsc -w & nodemon dist/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRPERFECT0603/SmartSender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRPERFECT0603/SmartSender/issues"
+  },
+  "homepage": "https://github.com/MRPERFECT0603/SmartSender#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@types/bcrypt": "^6.0.0",
+    "@types/cors": "^2.8.18",
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^5.0.2",
+    "@types/mongodb": "^4.0.6",
+    "@types/mongoose": "^5.11.96",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.15.21",
+    "@types/nodemailer": "^6.4.17",
+    "@types/openurl": "^1.0.3",
+    "@types/xlsx": "^0.0.35",
+    "axios": "^1.11.0",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "form-data": "^4.0.4",
+    "googleapis": "^149.0.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.1",
+    "nodemailer": "^7.0.3",
+    "openai": "^6.34.0",
+    "openurl": "^1.1.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
